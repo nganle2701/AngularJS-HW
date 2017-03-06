@@ -1,0 +1,26 @@
+.menu-list{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.home-section{
+    float:left;
+    width: 10%;
+}
+.section{
+    margin-left: 10%;
+    float:left;
+}
+.photo{
+    padding-right: 5px;
+}
+.avail-text{
+	width: 200px;
+}
+.text-align{
+	text-align: center;
+}
+#addProduct{
+	width: 600px;
+	margin-left:auto;
+	margin-right: auto;
+}
